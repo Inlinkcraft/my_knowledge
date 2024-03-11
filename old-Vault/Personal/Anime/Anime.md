@@ -1,0 +1,69 @@
+- [ ] AnoHana ED
+- [ ] Parasite
+- [ ] Fullmetal Alchemist
+- [ ] Attack on titan
+- [ ] Death parade
+- [ ] Your lie in April
+- [ ] One piece
+- [ ] HunterXHunter
+- [ ] Black Clover
+- [ ] Death note
+- [ ] Noragami
+- [ ] Fairytail
+- [ ] Fire Force
+- [ ] Naruto
+- [ ] Naruto Shippuden
+- [ ] Blue Exorcist
+- [ ] Bleach
+- [ ] Demon Slayer
+- [ ] Durarara
+- [ ] SAO
+- [ ] Fate/Zero
+- [ ] The seven deadly sins
+- [ ] Stein:Gate
+- [ ] Erased
+- [ ] Angel Beats
+- [ ] Your name
+- [ ] Re:Zero
+- [ ] Overloard
+- [ ] Akame ga KILL
+- [ ] Charlotte
+- [ ] Darling and the Franxx
+- [ ] The promised Neverland
+- [ ] Dr. Stone
+- [ ] Bunny girl senpai
+- [ ] Banana Fish
+- [ ] jujutsu Kaisen
+- [ ] Chainsaw man
+- [ ] Tokyo revenger
+- [ ] Spy X Family
+- [ ] K-ON
+- [ ] Violet Evergarden
+- [ ] Bakemonogatarie
+- [ ] One punch man
+- [ ] Blend S
+- [ ] Fate/Stay night
+- [ ] The rising of the sheild hero
+- [ ] Made in Abyss
+- [ ] Evangelion
+- [ ] No game no life
+- [ ] Initial D
+- [ ] Sailor moon
+- [ ] Cowboy Bebop
+- [ ] Black Butler
+- [ ] Soul Eater
+- [ ] Elfen Lied
+- [ ] Guilty Crown
+- [ ] Tokyo Ghoul
+- [ ] Code geass
+- [ ] komi-san
+- [ ] re creator
+- [ ] kill la kill
+- [ ] watamote
+- [ ] Assassin classroom
+- [ ] soul eater
+- [ ] silent voice
+- [ ] btoom
+- [ ] code gueass
+- [ ] another
+- [ ] 

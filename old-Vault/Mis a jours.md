@@ -1,0 +1,44 @@
+#### Cégep
+- [ ] Badminton
+- [ ] Calcul différentiel
+- [ ] Algèbre linéaire et Géométrie vectorielle
+- [ ] Philosophie et rationalité
+- [ ] Introduction à la programmation
+- [ ] Renforcement en Français, Langue d'enseignement
+- [ ] Conditionnement Physique
+- [ ] Calcul Différentiel
+- [ ] Physique Mécanique
+- [ ] Être Humain
+- [ ] Structure de donnée et programmation
+- [ ] Écriture et Littérature
+- [ ] Langue Anglaise et culture
+- [ ] Calcul Intégral
+- [ ] Gestion des finances personnelles
+- [ ] Chimie générale
+- [ ] Électricité et magnétisme
+- [ ] Étique et politique
+- [ ] Développement de programmes
+- [ ] Littérature et imaginaries
+- [ ] Randonnée Nature
+- [ ] Mathématique Discrète
+- [ ] Calcul Intégral
+- [ ] Ondes et physique moderne
+- [ ] Projet d'intégration en science informatique
+- [ ] Photographie artistique
+- [ ] Anglais propre
+- [ ] Littérature Québécoise
+- [ ] Chimie générale : La matière
+- [ ] Ondes et physique moderne
+- [ ] Communication et discours
+
+#### Université
+- [ ] Economies de l'entreprise
+- [ ] Introduction à la programmation python
+- [ ] Mathématique pour l'ingénieur 1
+- [ ] Mathématique pour l'ingénieur 2
+- [ ] Santé et sécurité pour ingénieur 2
+- [ ] Circuit Logiques
+- [ ] Dangers de l'électricité
+- [ ] Introduction à l'astrophysique
+- [ ] Système et mesures
+

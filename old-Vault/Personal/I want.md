@@ -1,0 +1,30 @@
+## To do
+----
+- [ ] 
+## To have
+----
+- [ ] Money
+- [ ] Carte cadeau
+	- [ ] Best Buy
+	- [ ] La Sources
+	- [ ] Sports experts
+	- [ ] etc.
+- [ ] Téléscopes
+- [ ] Bluetooth speaker portatif
+- [ ] Techwears
+- [ ] Vinyles
+	- [ ] Beatles
+	- [ ] Elton John
+	- [ ] Arctic monkeys
+	- [ ] Twenty one pilots
+	- [ ] etc.
+- [ ] Taie d'oreiller
+- [ ] Be quiet PC case
+- [ ] Formation de drone basic
+- [ ] Formation de drone avancer
+- [ ] Balance
+- [ ] Long board arbre 
+- [ ] Chaise de bureau secret lab
+- [ ] Jeu de switch
+- [ ] Panier a linge sale
+- [ ] Protège Matelas

@@ -1,0 +1,83 @@
+- [x] 20 fév. : Quiz 1.3 Math
+- [x] 21 fév. : Document de gestion G06 -> ==À revoir en réunion==
+- [x] 22 fév. : Rapport 1 ==En attente du travail de teammates==
+- [x] 23 fév. : Revoir séminaire de la semaine 5 ==Note perso==
+- [x] 24 fév.
+- [x] 25 fév.
+- [x] 26 fév.
+- [x] 27 fév. : Quiz 1.4.1 Math
+- [x] 28 fév. : Document de gestion G07
+- [x] 28 fév. : Tp2 OSA
+- [x] 29 fév.
+
+- [x] 1 mrs.
+- [x] 2 mrs. : Examen Intra - Math
+- [x] 3 mrs. : Examen Intra - Prog
+- [x] 4 mrs.
+- [x] 5 mrs. : Quiz 1.4.2 Math
+- [x] 5 mrs. : Devoir 2 - Math
+- [ ] 6 mrs.
+- [ ] 7 mrs.
+- [ ] 8 mrs.
+- [ ] 9 mrs.
+- [ ] 10 mrs.
+- [ ] 11 mrs.
+- [ ] 12 mrs. : Quiz 1.5.1 Math
+- [ ] 13 mrs. : Document de gestion G09
+- [ ] 14 mrs. : Examen Partiel - OSA
+- [ ] 15 mrs.
+- [ ] 16 mrs.
+- [ ] 17 mrs.
+- [ ] 18 mrs.
+- [ ] 19 mrs. : Quiz 1.5.2 Math
+- [ ] 20 mrs. : Tp3 OSA
+- [ ] 20 mrs. : Document de gestion G10
+- [ ] 21 mrs.
+- [ ] 22 mrs.
+- [ ] 23 mrs.
+- [ ] 24 mrs.
+- [ ] 25 mrs.
+- [ ] 26 mrs. : Quiz 1.6 , 1.7 Math
+- [ ] 27 mrs. : Document de gestion G11
+- [ ] 28 mrs. : Rapport de projet 2
+- [ ] 29 mrs.
+- [ ] 30 mrs.
+- [ ] 31 mrs.
+
+- [ ] 1 avr.
+- [ ] 2 avr. : Quiz 2.1 , 2.2 Math
+- [ ] 2 avr. : Quiz 2.3 Math
+- [ ] 3 avr. : Tp4 OSA 
+- [ ] 3 avr. : Document de gestion G12
+- [ ] 4 avr.
+- [ ] 5 avr.
+- [ ] 6 avr.
+- [ ] 7 avr.
+- [ ] 8 avr.
+- [ ] 9 avr.
+- [ ] 10 avr. : Document de gestion G13
+- [ ] 11 avr. : TP2 - Prog
+- [ ] 12 avr.
+- [ ] 13 avr.
+- [ ] 14 avr.
+- [ ] 15 avr.
+- [ ] 16 avr. : Quiz 2.4 Math
+- [ ] 17 avr. : Tp5 OSA
+- [ ] 17 avr. : Contrôle écrit individuel
+- [ ] 18 avr.
+- [ ] 19 avr.
+- [ ] 20 avr.
+- [ ] 21 avr.
+- [ ] 22 avr.
+- [ ] 23 avr. : Quiz 3.0 Math
+- [ ] 23 avr. : Devoir 3 - Math
+- [ ] 24 avr.
+- [ ] 25 avr. : TP3 - Prog
+- [ ] 25 avr. : Présentation client
+- [ ] 25 avr. : Rapport finale
+- [ ] 25 avr. : Rapport individuelle
+- [ ] 25 avr. : Examen Final - OSA
+- [ ] 26 avr.
+- [ ] 27 avr. : Examen Final - Math
+- [ ] 28 avr. : Examen Final - Prog
+
