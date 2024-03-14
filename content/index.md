@@ -1,4 +1,4 @@
-r---
+---
 title: Mon propre wiki !
 ---
 
